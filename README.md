@@ -1,3 +1,5 @@
+<div align="center">
+
 # 📦 Booking Management System
 ### C++ · OOP · Data Structures · SQL Server (ODBC)
 
